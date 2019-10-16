@@ -1,8 +1,8 @@
 {
 	"name": "hello-docker",
 	"version": "1.0.0",
-	"description": "",
-	"author": "May",
+	"description": "a node.js demo app published on docker",
+	"author": "yaolynzc",
 	"main": "app.js",
 	"scripts": {
 		"start": "node app.js"
